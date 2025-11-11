@@ -1,4 +1,4 @@
-from XuLyFile import *
+from Chuong_7_Xu_Ly_Tap_Tin_Cau_1_XuLyFile import *
 dssp=DocFile("database.txt")
 #print(dssp)
 def XuatSanPham(dssp):
